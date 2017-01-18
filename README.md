@@ -1,3 +1,8 @@
+# HandyDotEditor
+
+※Handy Graphic(ver 0.6.5)使用
+http://www.cc.kyoto-su.ac.jp/~ogihara/Hg/
+
 ### ▷内容ファイル
 ```
 操作動画             (操作動画)
@@ -8,6 +13,7 @@ dot/    dot           (本体)
 ```
 ### ▷挙動
 - 起動
+<br>
 <img src="img/start.png"width="50%">
 <br>
     - 新規
@@ -21,6 +27,7 @@ dot/    dot           (本体)
         ドット絵を描く際に使用する色の設定。
         <font color="red">※設定画面参照</font>
 - 設定画面
+<br>
 <img src="img/setting.png"width="50%">
 <br>
     カラーピッカーをイメージして作成
@@ -38,10 +45,12 @@ dot/    dot           (本体)
     - 戻る
         起動時の画面に戻る
 - 新規作成(マス目選択)
+<br>
 <img src="img/selectdotnum.png"width="50%">
 <br>
     新規でドット絵を描く際の一辺のマス目数の選択
 - 新規作成(エディタ)
+<br>
 <img src="img/editor.png">
 <br>
     - 左画面(カラーウィンドウ)
