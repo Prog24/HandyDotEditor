@@ -1,5 +1,5 @@
 .DS_Store
-src/img/
-src/dats/
+src/img/*.png
+src/dats/*.dat
 a.out
 
